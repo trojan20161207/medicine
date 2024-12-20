@@ -116,7 +116,7 @@
   {
     "letter": "A",
     "name": "阿仑麟酸钠片",
-    "manufacturer": "意大利默沙东 MerckSharpDohme（杭州分装）",
+    "manufacturer": "意大利默沙东 Merck Sharp & Dohme（杭州分装）",
     "tags": [
       "骨骼疾病用药",
       "片剂"
@@ -413,7 +413,7 @@
   {
     "letter": "B",
     "name": "布地奈德鼻喷雾剂",
-    "manufacturer": "瑞典阿斯利康 AstraZeneca AB(阿斯利康制药",
+    "manufacturer": "瑞典阿斯利康 AstraZeneca AB",
     "tags": [
       "呼吸系统用药",
       "鼻喷雾剂"
@@ -440,7 +440,7 @@
   {
     "letter": "B",
     "name": "布林佐胺滴眼液",
-    "manufacturer": "美国爱尔康眼药厂比利时分厂 s.a. ALCON-",
+    "manufacturer": "美国爱尔康眼药厂比利时分厂 (s.a.ALCON-COUVREUR n.v.)",
     "tags": [
       "眼科用药",
       "滴眼液"
@@ -601,7 +601,7 @@
   },
   {
     "letter": "E",
-    "name": "二甲双胍马来酸罗格列酮片 (薄",
+    "name": "二甲双胍马来酸罗格列酮片",
     "manufacturer": "西班牙葛兰素",
     "tags": [
       "降血糖药",
@@ -638,7 +638,7 @@
   {
     "letter": "F",
     "name": "非诺贝特胶囊",
-    "manufacturer": "法国利博福尼制药公司 (Laboratoires",
+    "manufacturer": "法国利博福尼制药公司 (Laboratoires Fournier S.A.)",
     "tags": [
       "降血脂药",
       "胶囊"
@@ -647,7 +647,7 @@
   {
     "letter": "F",
     "name": "非诺贝特片 (III)",
-    "manufacturer": "法国利博福尼制药公司 (Laboratoires",
+    "manufacturer": "法国利博福尼制药公司 (Laboratoires Fournier S.A.)",
     "tags": [
       "降血脂药",
       "片剂"
@@ -656,7 +656,7 @@
   {
     "letter": "F",
     "name": "夫西地酸滴眼液",
-    "manufacturer": "丹麦利奥制药有限公司 (Leo",
+    "manufacturer": "丹麦利奥制药有限公司 (LEO Pharma A/S)",
     "tags": [
       "眼科用药",
       "滴眼液"
@@ -881,7 +881,7 @@
   {
     "letter": "Z",
     "name": "枸橼酸莫沙必利片",
-    "manufacturer": "大日本制药株式会社铃鹿工厂 (The Suzuka",
+    "manufacturer": "大日本制药株式会社 (Dainippon Sumitomo Pharma Co.)",
     "tags": [
       "消化系统用药",
       "片剂"
@@ -1484,7 +1484,7 @@
   {
     "letter": "L",
     "name": "磷酸西格列汀片",
-    "manufacturer": "澳大利亚默沙东 Merck Sharp&",
+    "manufacturer": "澳大利亚默沙东 Merck Sharp & Dohme",
     "tags": [
       "降血糖药",
       "片剂"
@@ -1772,7 +1772,7 @@
   {
     "letter": "M",
     "name": "孟鲁司特钠咀嚼片",
-    "manufacturer": "英国 Merck Sharp & Dohme(杭州默沙东分",
+    "manufacturer": "英国 Merck Sharp & Dohme (杭州默沙东分装)",
     "tags": [
       "抗过敏药",
       "咀嚼片"
@@ -1790,7 +1790,7 @@
   {
     "letter": "M",
     "name": "孟鲁司特钠片",
-    "manufacturer": "英国 Merck Sharp & Dohme(杭州默沙东分",
+    "manufacturer": "英国 Merck Sharp & Dohme (杭州默沙东分装)",
     "tags": [
       "抗过敏药",
       "片剂"
@@ -2708,7 +2708,7 @@
   {
     "letter": "X",
     "name": "辛伐他汀片",
-    "manufacturer": "英国 Merck Sharp & Dohme(杭州默沙东分",
+    "manufacturer": "英国 Merck Sharp & Dohme (杭州默沙东分装)",
     "tags": [
       "降血脂药",
       "片剂"
@@ -2744,7 +2744,7 @@
   {
     "letter": "Y",
     "name": "盐酸阿莫罗芬乳膏",
-    "manufacturer": "法国高德美制药公司 Laboratoires",
+    "manufacturer": "法国高德美制药公司 (Laboratoires Galderma)",
     "tags": [
       "皮肤科用药",
       "乳膏"
@@ -2762,7 +2762,7 @@
   {
     "letter": "Y",
     "name": "盐酸氨溴索缓释胶囊",
-    "manufacturer": "德国勃林格殷格翰公司 (上海勃林格殷格翰药",
+    "manufacturer": "德国勃林格殷格翰公司 (上海勃林格殷格翰药业有限公司）",
     "tags": [
       "呼吸系统用药",
       "缓释胶囊"
@@ -2816,7 +2816,7 @@
   {
     "letter": "Y",
     "name": "盐酸吡格列酮片",
-    "manufacturer": "同上，mRNA 福星情报局（公众号)",
+    "manufacturer": "日本武田制药工业株式会社（天津武田药品有限公司分装）",
     "tags": [
       "降血糖药",
       "片剂"
@@ -3410,7 +3410,7 @@
   {
     "letter": "Z",
     "name": "吲达帕胺缓释片",
-    "manufacturer": "施 维雅 (天津) 制药有限公司",
+    "manufacturer": "施维雅 (天津) 制药有限公司",
     "tags": [
       "降血压药",
       "缓释片"
