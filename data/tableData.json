@@ -190,7 +190,7 @@
     ]
   },
   {
-    "letter": "E",
+    "letter": "A",
     "name": "埃索美拉唑镁肠溶片",
     "brandName": "耐信",
     "manufacturer": "阿斯利康制药有限公司",
@@ -345,7 +345,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "B",
     "name": "吡贝地尔缓释片",
     "manufacturer": "法国施维雅药厂 LES LABORATOIRES SERVIER",
     "tags": [
@@ -354,7 +354,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "B",
     "name": "吡美莫司乳膏",
     "manufacturer": "德国诺华 Novartis Pharma Produktions",
     "tags": [
@@ -885,7 +885,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "J",
     "name": "枸橼酸莫沙必利片",
     "manufacturer": "大日本制药株式会社 (Dainippon Sumitomo Pharma Co.)",
     "tags": [
@@ -894,7 +894,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "J",
     "name": "枸橼酸坦度螺酮片",
     "manufacturer": "日本住友制药株式会社 (住友制药苏州分装)",
     "tags": [
@@ -903,7 +903,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "J",
     "name": "枸橼酸托瑞米芬片",
     "manufacturer": "芬兰奥立安大药厂 (Orion Corporation)",
     "tags": [
@@ -912,7 +912,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "J",
     "name": "枸橼酸西地那非片",
     "manufacturer": "辉瑞制药有限公司",
     "tags": [
@@ -939,7 +939,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "H",
     "name": "琥珀酸美托洛尔缓释片",
     "manufacturer": "瑞典阿斯利康 AstraZeneca AB(阿斯利康制药",
     "tags": [
@@ -948,7 +948,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "H",
     "name": "琥珀酸索利那新片",
     "manufacturer": "荷兰 Astellas Pharma Europe B. V.(安斯泰",
     "tags": [
@@ -1785,7 +1785,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "M",
     "name": "咪喹莫特乳膏",
     "manufacturer": "英国 3M Healthcare Limited",
     "tags": [
@@ -1794,7 +1794,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "M",
     "name": "咪唑立宾片",
     "manufacturer": "日本旭化成株式会社 Asahi Kasei",
     "tags": [
@@ -1803,7 +1803,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "M",
     "name": "咪唑斯汀缓释片",
     "manufacturer": "法国圣德拉堡公司 (西安杨森制药分装)",
     "tags": [
@@ -1848,7 +1848,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "N",
     "name": "萘丁美酮片",
     "manufacturer": "中美天津史克制药有限公司",
     "tags": [
@@ -2109,7 +2109,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "S",
     "name": "噻奈普汀钠片",
     "manufacturer": "施维雅 (天津) 制药有限公司",
     "tags": [
@@ -2118,7 +2118,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "S",
     "name": "噻托溴铵粉吸入剂",
     "manufacturer": "德国勃林格殷格翰国际公司",
     "tags": [
@@ -2658,7 +2658,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "X",
     "name": "缬沙坦氨氯地平片 (I)",
     "manufacturer": "瑞士诺华制药有限公司 Novartis Pharma",
     "tags": [
@@ -2667,7 +2667,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "X",
     "name": "缬沙坦胶囊",
     "manufacturer": "北京诺华制药有限公司",
     "tags": [
@@ -2676,7 +2676,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "X",
     "name": "缬沙坦氢氯噻嗪片",
     "manufacturer": "瑞士诺华制药有限公司 Novartis Pharma",
     "tags": [
@@ -3396,7 +3396,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "Y",
     "name": "吲达帕胺缓释片",
     "manufacturer": "施维雅 (天津) 制药有限公司",
     "tags": [
@@ -3405,7 +3405,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "Y",
     "name": "吲达帕胺片",
     "manufacturer": "法国施维雅药厂 Les Laboratoires Servier",
     "tags": [
@@ -3423,7 +3423,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "C",
     "name": "重酒石酸卡巴拉汀胶囊",
     "manufacturer": "西班牙诺华 Novartis Farmaceutica S. A.",
     "tags": [
@@ -3432,7 +3432,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "C",
     "name": "重组人胰岛素注射液",
     "manufacturer": "埃及礼来",
     "tags": [
@@ -3441,7 +3441,7 @@
     ]
   },
   {
-    "letter": "Z",
+    "letter": "C",
     "name": "重组人胰岛素注射液",
     "manufacturer": "法国礼来 (礼来苏州制药分装)",
     "tags": [
