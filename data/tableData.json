@@ -32,6 +32,7 @@
   {
     "letter": "A",
     "name": "阿达帕林凝胶",
+    "brandName":"达芙文",
     "manufacturer": "法国高德美制药公司 Laboratoires",
     "tags": [
       "皮肤科用药",
@@ -41,6 +42,7 @@
   {
     "letter": "A",
     "name": "阿德福韦酯胶囊",
+    "brandName":"名正",
     "manufacturer": "江苏正大天晴药业股份有限公司（泰中合资）",
     "tags": [
       "抗病毒药",
