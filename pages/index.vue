@@ -38,10 +38,10 @@
                 </span>
                 <span v-else-if="props.column.field == 'image'" class="flex justify-center relative">
                   <img 
-                    v-if="hasImage.has(props.formattedRow.name)"
+                    v-if="props.formattedRow.brandName"
                     :src="getImagePath(props.formattedRow.name, props.formattedRow.brandName)" 
                     :alt="`${props.formattedRow.name} - ${props.formattedRow.brandName}`"
-                    class="h-16 w-16 object-contain rounded-lg border p-1 cursor-pointer"
+                    class="h-20 w-20 object-contain rounded-lg border p-1 cursor-pointer"
                     @mouseenter="handleMouseEnter(getImagePath(props.formattedRow.name, props.formattedRow.brandName), $event)"
                     @mouseleave="handleMouseLeave"
                   />
@@ -151,7 +151,6 @@ export default {
 
   data() {
     return {
-      hasImage: new Set(['阿奇霉素干混悬剂']), // 记录有图片的药品名称
       columns: [
         {
           label: '首字母',
