@@ -62,6 +62,7 @@
   {
     "letter": "A",
     "name": "阿德福韦酯片",
+    "brandName": "优贺丁",
     "manufacturer": "上海益生源药业有限公司",
     "tags": [
       "抗病毒药",
@@ -71,6 +72,7 @@
   {
     "letter": "A",
     "name": "阿德福韦酯片",
+    "brandName": "代丁",
     "manufacturer": "天津药物研究院药业有限责任公司",
     "tags": [
       "抗病毒药",
@@ -80,6 +82,7 @@
   {
     "letter": "A",
     "name": "阿法骨化醇片",
+    "brandName": "萌格旺",
     "manufacturer": "日本帝人株式会社医药岩国制造所",
     "tags": [
       "维生素",
@@ -89,6 +92,7 @@
   {
     "letter": "A",
     "name": "阿法骨化醇软胶囊",
+    "brandName": "阿法迪三",
     "manufacturer": "以色列梯瓦制药工业有限公司",
     "tags": [
       "维生素",
@@ -108,7 +112,8 @@
   {
     "letter": "A",
     "name": "阿立哌唑片",
-    "manufacturer": "浙江大家制药有限公司",
+    "brandName": "安律凡",
+    "manufacturer": "浙江大冢制药有限公司",
     "tags": [
       "精神科用药",
       "片剂"
@@ -117,6 +122,7 @@
   {
     "letter": "A",
     "name": "阿仑麟酸钠片",
+    "brandName": "福善美",
     "manufacturer": "意大利默沙东 (Merck Sharp & Dohme)（杭州分装）",
     "tags": [
       "骨骼疾病用药",
@@ -146,6 +152,7 @@
   {
     "letter": "A",
     "name": "阿莫西林舒巴坦片",
+    "brandName": "干彼美",
     "manufacturer": "阿根廷 Laboratorios Bago S.A.",
     "tags": [
       "抗生素",
@@ -155,6 +162,7 @@
   {
     "letter": "A",
     "name": "阿那曲唑片",
+    "brandName": "瑞宁得",
     "manufacturer": "美国阿斯利康有限公司 AstraZeneca",
     "tags": [
       "抗肿瘤药",
@@ -174,6 +182,7 @@
   {
     "letter": "A",
     "name": "阿维 A 胶囊",
+    "brandName": "新体卡松",
     "manufacturer": "加拿大 PATHEONINC.",
     "tags": [
       "皮肤科用药",
@@ -183,6 +192,7 @@
   {
     "letter": "A",
     "name": "阿昔莫司胶囊",
+    "brandName": "乐知苹",
     "manufacturer": "意大利辉瑞制药厂 (Pfizer Italia SRL)",
     "tags": [
       "降血脂药",
@@ -202,6 +212,7 @@
   {
     "letter": "A",
     "name": "氨甲环酸片",
+    "brandName": "妥塞敏",
     "manufacturer": "日本第一三共普乐发株式会社静冈工厂",
     "tags": [
       "止血药",
@@ -211,6 +222,7 @@
   {
     "letter": "A",
     "name": "奥氮平片",
+    "brandName": "再普乐",
     "manufacturer": "波多黎各 LillydelCaribeInc.",
     "tags": [
       "精神科用药",
@@ -220,6 +232,7 @@
   {
     "letter": "A",
     "name": "奥卡西平口服混悬液",
+    "brandName": "曲莱",
     "manufacturer": "法国诺华 NovartisPharmaS. A",
     "tags": [
       "抗癫痫药",
@@ -229,6 +242,7 @@
   {
     "letter": "A",
     "name": "奥卡西平片",
+    "brandName": "曲莱",
     "manufacturer": "意大利诺华 NovartisPharmaS.p. A",
     "tags": [
       "抗癫痫药",
@@ -237,7 +251,8 @@
   },
   {
     "letter": "A",
-    "name": "奥洛他定滴眼液",
+    "name": "盐酸奥洛他定滴眼液",
+    "brandName": "帕坦洛",
     "manufacturer": "美国爱尔康眼药厂比利时分厂",
     "tags": [
       "眼科用药",
@@ -257,6 +272,7 @@
   {
     "letter": "A",
     "name": "奥美沙坦酯片",
+    "brandName": "傲坦",
     "manufacturer": "第一三共制药 (上海) 有限公司",
     "tags": [
       "降血压药",
@@ -266,6 +282,7 @@
   {
     "letter": "A",
     "name": "奥替溴铵片",
+    "brandName": "斯巴敏",
     "manufacturer": "德国柏林化学股份有限公司 Berlin-Chemie",
     "tags": [
       "消化系统用药",
