@@ -22,7 +22,7 @@
   {
     "letter": "A",
     "name": "阿苯达唑片",
-    "brandName":"史克肠虫清",
+    "brandName": "史克肠虫清",
     "manufacturer": "中美（天津）史克制药有限公司",
     "tags": [
       "驱虫药",
@@ -32,8 +32,8 @@
   {
     "letter": "A",
     "name": "阿达帕林凝胶",
-    "brandName":"达芙文",
-    "manufacturer": "法国高德美制药公司 Laboratoires",
+    "brandName": "达芙文",
+    "manufacturer": "法国高德美制药公司 (Laboratoires)",
     "tags": [
       "皮肤科用药",
       "凝胶"
@@ -42,7 +42,7 @@
   {
     "letter": "A",
     "name": "阿德福韦酯胶囊",
-    "brandName":"名正",
+    "brandName": "名正",
     "manufacturer": "江苏正大天晴药业股份有限公司（泰中合资）",
     "tags": [
       "抗病毒药",
@@ -52,7 +52,7 @@
   {
     "letter": "A",
     "name": "阿德福韦酯片",
-    "brandName":"贺维力",
+    "brandName": "贺维力",
     "manufacturer": "葛兰素史克（天津）有限公司",
     "tags": [
       "抗病毒药",
@@ -116,7 +116,7 @@
   {
     "letter": "A",
     "name": "阿仑麟酸钠片",
-    "manufacturer": "意大利默沙东 Merck Sharp & Dohme（杭州分装）",
+    "manufacturer": "意大利默沙东 (Merck Sharp & Dohme)（杭州分装）",
     "tags": [
       "骨骼疾病用药",
       "片剂"
@@ -143,7 +143,7 @@
   {
     "letter": "A",
     "name": "阿莫西林舒巴坦片",
-    "manufacturer": "阿根廷 LaboratoriosBagoS. A",
+    "manufacturer": "阿根廷 Laboratorios Bago S.A.",
     "tags": [
       "抗生素",
       "片剂"
@@ -179,14 +179,14 @@
   {
     "letter": "A",
     "name": "阿昔莫司胶囊",
-    "manufacturer": "意大利辉瑞制药厂 PfizerItaliaSRL",
+    "manufacturer": "意大利辉瑞制药厂 (Pfizer Italia SRL)",
     "tags": [
       "降血脂药",
       "胶囊"
     ]
   },
   {
-    "letter": "A",
+    "letter": "E",
     "name": "埃索美拉唑镁肠溶片",
     "manufacturer": "阿斯利康制药有限公司",
     "tags": [
@@ -242,7 +242,7 @@
   {
     "letter": "A",
     "name": "奥美拉唑镁肠溶片",
-    "manufacturer": "瑞典阿斯利康 AstraZenecaAB",
+    "manufacturer": "瑞典阿斯利康 (AstraZeneca AB)",
     "tags": [
       "消化系统用药",
       "肠溶片"
@@ -466,7 +466,7 @@
   },
   {
     "letter": "C",
-    "name": "雌二醇片/雌二醇地屈孕酮片复",
+    "name": "雌二醇片/雌二醇地屈孕酮片复合包装",
     "manufacturer": "荷兰苏威制药公司",
     "tags": [
       "激素类药",
@@ -1169,7 +1169,7 @@
   {
     "letter": "K",
     "name": "卡泊三醇搽剂",
-    "manufacturer": "丹麦利奥制药有限公司 (Leo",
+    "manufacturer": "丹麦利奥制药有限公司 (Leo Pharmaceutical Products)",
     "tags": [
       "皮肤科用药",
       "搽剂"
