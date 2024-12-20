@@ -9,6 +9,7 @@
           <div class="flex items-center gap-0.5">进口原研药目录</div>
         </NuxtLink>
         <p class="mt-2">约 400 种药品，实时更新的进口原研药数据库</p>
+        <p class="mt-2">本站数据和图片来源于网络，仅供学习参考。如有侵权，请联系我们删除。</p>
         <p class="mt-2">
           Made with
           <span class="text-red-500">❤️</span>
