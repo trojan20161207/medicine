@@ -98,6 +98,7 @@
   {
     "letter": "A",
     "name": "阿卡波糖片",
+    "brandName": "拜唐苹",
     "manufacturer": "拜耳医药保健有限公司",
     "tags": [
       "降血糖药",
@@ -188,6 +189,7 @@
   {
     "letter": "E",
     "name": "埃索美拉唑镁肠溶片",
+    "brandName": "耐信",
     "manufacturer": "阿斯利康制药有限公司",
     "tags": [
       "消化系统用药",
