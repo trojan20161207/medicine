@@ -126,6 +126,7 @@
   {
     "letter": "A",
     "name": "阿莫西林克拉维酸钾干混悬剂",
+    "brandName": "奥先",
     "manufacturer": "英国葛兰素史克有限公司",
     "tags": [
       "抗生素",
@@ -135,6 +136,7 @@
   {
     "letter": "A",
     "name": "阿莫西林克拉维酸钾片",
+    "brandName": "奥先",
     "manufacturer": "英国葛兰素史克有限公司",
     "tags": [
       "抗生素",
@@ -162,6 +164,7 @@
   {
     "letter": "A",
     "name": "阿托伐他汀钙片",
+    "brandName": "立普妥",
     "manufacturer": "爱尔兰 Pfizer Ireland",
     "tags": [
       "降血脂药",
@@ -244,6 +247,7 @@
   {
     "letter": "A",
     "name": "奥美拉唑镁肠溶片",
+    "brandName": "洛赛克",
     "manufacturer": "瑞典阿斯利康 (AstraZeneca AB)",
     "tags": [
       "消化系统用药",
