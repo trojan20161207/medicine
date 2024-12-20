@@ -2,9 +2,12 @@
 
 一个基于 Nuxt.js 开发的进口原研药数据库，收录约 400 种进口原研药品信息，帮助医生和患者快速查询原研药信息。
 
- 网址：https://medicine.lvwzhen.com/
+网址：https://medicine.lvwzhen.com/
+
+作者：[@lvwzhen](https://x.com/lvwzhen)
  
- 作者：[@lvwzhen](https://x.com/lvwzhen)
+数据来源：
+- https://mp.weixin.qq.com/s/EBu_ZTy5uovPa_8kCs_TBQ
 
 ## 功能特点
 
