@@ -47,7 +47,7 @@ export default {
 
   // sitemap
   sitemap: {
-    hostname: "https://medicine.lvwzhen.com",
+    hostname: "https://medicine.dev6.site",
     gzip: true,
     trailingSlash: true,
   },
