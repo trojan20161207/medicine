@@ -38,12 +38,14 @@
                 </span>
                 <span v-else-if="props.column.field == 'image'" class="flex justify-center relative">
                   <img 
-                    v-if="props.formattedRow.brandName"
+                    v-if="props.formattedRow.brandName && getImagePath(props.formattedRow.name, props.formattedRow.brandName)"
                     :src="getImagePath(props.formattedRow.name, props.formattedRow.brandName)" 
                     :alt="`${props.formattedRow.name} - ${props.formattedRow.brandName}`"
                     class="h-20 w-20 object-contain rounded-lg border p-1 cursor-pointer"
                     @mouseenter="handleMouseEnter(getImagePath(props.formattedRow.name, props.formattedRow.brandName), $event)"
                     @mouseleave="handleMouseLeave"
+                    @error="handleImageError"
+                    loading="lazy"
                   />
                 </span>
                 <span v-else-if="props.column.field == 'manufacturer'" 
@@ -142,7 +144,7 @@ const handleMouseMove = (event) => {
 }
 
 const handleImageError = (e) => {
-  e.target.src = '/images/placeholder.jpg';
+  e.target.src = 'https://dummyimage.com/80x80/fff/aaa';
 }
 </script>
 
