@@ -82,6 +82,11 @@
             <h2 class="border-b pb-2 text-2xl font-semibold">Source</h2>
             <ul class="mt-3 list-disc pl-4 leading-relaxed">
               <li>
+                <a class="text-blue-500 underline hover:text-purple-700" href="https://www.nmpa.gov.cn/datasearch/home-index.html">
+                  https://www.nmpa.gov.cn/datasearch/home-index.html
+                </a>
+              </li>
+              <li>
                 <a class="text-blue-500 underline hover:text-purple-700" href="https://mp.weixin.qq.com/s/EBu_ZTy5uovPa_8kCs_TBQ">
                   https://mp.weixin.qq.com/s/EBu_ZTy5uovPa_8kCs_TBQ
                 </a>
@@ -165,11 +170,14 @@ export default {
           field: 'letter',
           width: '80px',
           sortable: true,
+          tdClass: 'hidden md:table-cell',
+          thClass: 'hidden md:table-cell',
         },
         {
           label: '药品图片',
           field: 'image',
           width: '120px',
+          sortable: false,
         },
         {
           label: '药品名称',
