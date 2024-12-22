@@ -647,6 +647,16 @@
   },
   {
     "letter": "F",
+    "name": "非布司他片",
+    "brandName": "菲布力",
+    "manufacturer": "日本 TEIJIN PHARMA LIMITED IWAKUNI PHARMACEUTICAL FACTORY",
+    "tags": [
+      "降尿酸药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "F",
     "name": "非洛地平缓释片",
     "manufacturer": "阿斯利康制药有限公司",
     "tags": [
