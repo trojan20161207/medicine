@@ -101,3 +101,9 @@ $ npm run generate
 ## 许可证
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+
+## 感谢每位贡献者
+
+<a href="https://github.com/lvwzhen/medicine/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lvwzhen/medicine" />
+</a>
