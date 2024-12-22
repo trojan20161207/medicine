@@ -12,7 +12,7 @@
                 约 400 种药品，实时更新的进口原研药数据库
               </p>
               <p class="mx-auto mt-2 text-sm text-secondary-500">
-                数据来源于网络，仅供参考。用药请遵医嘱，按说明书使用。
+                数据来源于网络，仅供参考。请遵医嘱用药，并在医师指导下使用药物。
               </p>
               <div class="mt-6 flex justify-center">
                 <a href="https://github.com/lvwzhen/medicine" class="flex items-center gap-1  bg-secondary-700 px-4 py-2 text-sm font-normal text-white shadow-sm transition-all hover:bg-secondary-800 rounded-full">
@@ -47,6 +47,12 @@
                     @error="handleImageError"
                     loading="lazy"
                   />
+                </span>
+                <span v-else-if="props.column.field == 'brandName'" 
+                  class="cursor-pointer hover:text-blue-500"
+                  @click="handleSearch(props.formattedRow[props.column.field])"
+                >
+                  {{ props.formattedRow[props.column.field] }}<span v-if="props.formattedRow[props.column.field]">®</span>
                 </span>
                 <span v-else-if="props.column.field == 'manufacturer'" 
                   class="cursor-pointer hover:text-blue-500"

@@ -13,7 +13,7 @@
     "letter": "A",
     "name": "阿奇霉素片",
     "brandName": "希舒美",
-    "manufacturer": "晖致制药（原辉瑞）",
+    "manufacturer": "晖致制药",
     "tags": [
       "抗生素",
       "片剂"
@@ -472,6 +472,7 @@
   {
     "letter": "B",
     "name": "布洛芬缓释胶囊",
+    "brandName": "芬必得",
     "manufacturer": "中美天津史克制药有限公司",
     "tags": [
       "解热镇痛药",
@@ -481,6 +482,7 @@
   {
     "letter": "C",
     "name": "草酸艾司西酞普兰片",
+    "brandName": "来士普",
     "manufacturer": "丹麦灵北药厂 H. Lundbeck A/S(西安杨森制药",
     "tags": [
       "精神科用药",
@@ -562,6 +564,7 @@
   {
     "letter": "D",
     "name": "多潘立酮混悬液",
+    "brandName": "吗丁啉",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "消化系统用药",
@@ -571,6 +574,7 @@
   {
     "letter": "D",
     "name": "多潘立酮片",
+    "brandName": "吗丁啉",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "消化系统用药",
@@ -616,6 +620,7 @@
   {
     "letter": "E",
     "name": "恩替卡韦片",
+    "brandName": "博路定",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "抗病毒药",
@@ -688,6 +693,7 @@
   {
     "letter": "F",
     "name": "夫西地酸乳膏",
+    "brandName": "立思丁",
     "manufacturer": "爱尔兰 Leo Laboratories Ltd",
     "tags": [
       "皮肤科用药",
@@ -769,6 +775,7 @@
   {
     "letter": "F",
     "name": "福辛普利钠片",
+    "brandName": "蒙诺",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "降血压药",
@@ -796,6 +803,7 @@
   {
     "letter": "F",
     "name": "复方曲安奈德乳膏",
+    "brandName": "康纳乐",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "皮肤科用药",
@@ -1192,6 +1200,7 @@
   {
     "letter": "K",
     "name": "卡泊三醇搽剂",
+    "brandName": "达力士",
     "manufacturer": "丹麦利奥制药有限公司 (Leo Pharmaceutical Products)",
     "tags": [
       "皮肤科用药",
@@ -1201,6 +1210,7 @@
   {
     "letter": "K",
     "name": "卡泊三醇软膏",
+    "brandName": "达力士",
     "manufacturer": "爱尔兰 Leo Laboratories Ltd",
     "tags": [
       "皮肤科用药",
@@ -1228,6 +1238,7 @@
   {
     "letter": "K",
     "name": "卡托普利片",
+    "brandName": "开博通",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "降血压药",
@@ -1607,6 +1618,7 @@
   {
     "letter": "L",
     "name": "洛索洛芬钠片",
+    "brandName": "乐松",
     "manufacturer": "第一三共制药 (上海) 有限公司",
     "tags": [
       "解热镇痛药",
@@ -1615,7 +1627,8 @@
   },
   {
     "letter": "L",
-    "name": "铝碳酸镁片",
+    "name": "铝碳酸镁咀嚼片",
+    "brandName": "达喜",
     "manufacturer": "拜耳医药保健有限公司",
     "tags": [
       "消化系统用药",
@@ -1976,6 +1989,7 @@
   {
     "letter": "P",
     "name": "普伐他汀钠片",
+    "brandName": "普拉固",
     "manufacturer": "第一三共制药 (上海) 有限公司",
     "tags": [
       "降血脂药",
@@ -2264,6 +2278,7 @@
   {
     "letter": "T",
     "name": "他克莫司软膏",
+    "brandName": "普特彼",
     "manufacturer": "日本 Astellas Toyama Co., Ltd. Toyama",
     "tags": [
       "皮肤科用药",
@@ -2354,6 +2369,7 @@
   {
     "letter": "T",
     "name": "头孢丙烯片",
+    "brandName": "施复捷",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "抗生素",
@@ -2453,6 +2469,7 @@
   {
     "letter": "T",
     "name": "头孢拉定胶囊",
+    "brandName": "泛捷复",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "抗生素",
@@ -2498,6 +2515,7 @@
   {
     "letter": "T",
     "name": "妥布霉素滴眼液",
+    "brandName": "托百士",
     "manufacturer": "美国爱尔康眼药厂比利时分厂 s.a. ALCON",
     "tags": [
       "眼科用药",
@@ -2507,6 +2525,7 @@
   {
     "letter": "T",
     "name": "妥布霉素地塞米松滴眼液",
+    "brandName": "典必殊",
     "manufacturer": "美国爱尔康眼药厂比利时分厂 s.a. ALCON",
     "tags": [
       "眼科用药",
@@ -2516,6 +2535,7 @@
   {
     "letter": "T",
     "name": "妥布霉素地塞米松眼膏",
+    "brandName": "典必殊",
     "manufacturer": "美国爱尔康眼药厂比利时分厂 s.a. ALCON",
     "tags": [
       "眼科用药",
@@ -2525,6 +2545,7 @@
   {
     "letter": "T",
     "name": "妥布霉素眼膏",
+    "brandName": "托百士",
     "manufacturer": "美国爱尔康眼药厂比利时分厂 s.a. ALCON",
     "tags": [
       "眼科用药",
@@ -2624,6 +2645,7 @@
   {
     "letter": "X",
     "name": "硝酸咪康唑乳膏",
+    "brandName": "达克宁",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "皮肤科用药",
@@ -2633,6 +2655,7 @@
   {
     "letter": "X",
     "name": "硝酸咪康唑散",
+    "brandName": "达克宁",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "皮肤科用药",
@@ -2642,6 +2665,7 @@
   {
     "letter": "X",
     "name": "硝酸咪康唑栓",
+    "brandName": "达克宁",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "妇科用药",
@@ -2651,6 +2675,7 @@
   {
     "letter": "X",
     "name": "硝酸咪康唑阴道软胶囊",
+    "brandName": "达克宁",
     "manufacturer": "法国 Cardinal Health France",
     "tags": [
       "妇科用药",
@@ -2660,6 +2685,7 @@
   {
     "letter": "X",
     "name": "硝酸舍他康唑乳膏",
+    "brandName": "卓兰",
     "manufacturer": "西班牙 FERRERINTERNACIONAL, S. A.",
     "tags": [
       "皮肤科用药",
@@ -3056,6 +3082,7 @@
   {
     "letter": "Y",
     "name": "盐酸莫西沙星片",
+    "brandName": "拜复乐",
     "manufacturer": "德国拜耳 (拜耳医药保健分装)",
     "tags": [
       "抗生素",
@@ -3479,6 +3506,7 @@
   {
     "letter": "Z",
     "name": "左氧氟沙星片",
+    "brandName": "可乐必妥",
     "manufacturer": "第一三共制药 (北京) 有限公司",
     "tags": [
       "抗生素",
