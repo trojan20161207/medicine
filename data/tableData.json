@@ -3,7 +3,7 @@
     "letter": "A",
     "name": "阿奇霉素干混悬剂",
     "brandName": "希舒美",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗生素",
       "干混悬剂"
@@ -193,7 +193,7 @@
     "letter": "A",
     "name": "阿昔莫司胶囊",
     "brandName": "乐知苹",
-    "manufacturer": "意大利辉瑞制药厂 (Pfizer Italia SRL)",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "降血脂药",
       "胶囊"
@@ -347,7 +347,7 @@
   {
     "letter": "B",
     "name": "苯磺酸氨氯地平片",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "降血压药",
       "片剂"
@@ -522,7 +522,7 @@
   {
     "letter": "C",
     "name": "醋酸甲羟孕酮片",
-    "manufacturer": "意大利辉瑞制药厂",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "激素类药",
       "片剂"
@@ -761,7 +761,7 @@
   {
     "letter": "F",
     "name": "氟康唑胶囊",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗真菌药",
       "胶囊"
@@ -901,7 +901,7 @@
   {
     "letter": "G",
     "name": "格列吡嗪控释片",
-    "manufacturer": "美国辉瑞 Pfizer Pharmaceuticals LLC",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "降血糖药",
       "控释片"
@@ -910,7 +910,7 @@
   {
     "letter": "G",
     "name": "格列吡嗪片",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "降血糖药",
       "片剂"
@@ -974,7 +974,7 @@
   {
     "letter": "J",
     "name": "枸橼酸西地那非片",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "泌尿系统用药",
       "片剂"
@@ -1378,7 +1378,7 @@
   {
     "letter": "L",
     "name": "拉坦前列素滴眼液",
-    "manufacturer": "比利时辉瑞 PfizerManufacturing",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "眼科用药",
       "滴眼液"
@@ -1533,7 +1533,7 @@
   {
     "letter": "L",
     "name": "磷酸雌莫司汀胶囊",
-    "manufacturer": "意大利辉瑞制药厂 Pfizer Italia SRL",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗肿瘤药",
       "胶囊"
@@ -1951,7 +1951,7 @@
   {
     "letter": "N",
     "name": "尼麦角林片",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "神经科用药",
       "片剂"
@@ -2024,7 +2024,7 @@
   {
     "letter": "P",
     "name": "苹果酸舒尼替尼胶囊",
-    "manufacturer": "意大利辉瑞制药厂 Pfizer Italia SRL",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗肿瘤药",
       "胶囊"
@@ -3453,7 +3453,7 @@
   {
     "letter": "Y",
     "name": "依西美坦片",
-    "manufacturer": "意大利辉瑞制药厂 Pfizer Italia SRL",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗肿瘤药",
       "片剂"
