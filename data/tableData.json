@@ -113,7 +113,7 @@
     "letter": "A",
     "name": "阿立哌唑片",
     "brandName": "安律凡",
-    "manufacturer": "浙江大冢制药有限公司",
+    "manufacturer": "浙江大冢制药有限公司 Otsuka",
     "tags": [
       "精神科用药",
       "片剂"
@@ -223,7 +223,17 @@
     "letter": "A",
     "name": "奥氮平片",
     "brandName": "再普乐",
-    "manufacturer": "波多黎各 LillydelCaribeInc.",
+    "manufacturer": "礼来公司 Lilly",
+    "tags": [
+      "精神科用药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥氮平口崩片",
+    "brandName": "再普乐",
+    "manufacturer": "礼来公司 Lilly",
     "tags": [
       "精神科用药",
       "片剂"
@@ -417,9 +427,11 @@
   },
   {
     "letter": "B",
-    "name": "丙戊酸钠缓释片",
-    "manufacturer": "杭州赛诺菲安万特民生制药有限公司",
+    "name": "丙戊酸钠缓释片 (I)",
+    "brandName": "德巴金",
+    "manufacturer": "赛诺菲 Sanofi Winthrop Industrie",
     "tags": [
+      "精神科用药",
       "抗癫痫药",
       "缓释片"
     ]
@@ -483,7 +495,7 @@
     "letter": "C",
     "name": "草酸艾司西酞普兰片",
     "brandName": "来士普",
-    "manufacturer": "丹麦灵北药厂 H. Lundbeck A/S(西安杨森制药",
+    "manufacturer": "灵北药厂 H. Lundbeck A/S (西安杨森制药分装)",
     "tags": [
       "精神科用药",
       "片剂"
@@ -766,8 +778,9 @@
   },
   {
     "letter": "F",
-    "name": "氟哌噻吨/美利曲辛片",
-    "manufacturer": "丹麦灵北制药公司 H. Lundbeck A/S",
+    "name": "氟哌噻吨美利曲辛片",
+    "brandName": "黛力新",
+    "manufacturer": "灵北药厂 H. Lundbeck A/S",
     "tags": [
       "精神科用药",
       "片剂"
@@ -841,7 +854,18 @@
   {
     "letter": "F",
     "name": "富马酸喹硫平片",
-    "manufacturer": "英国阿斯利康 AstraZeneca UK Limited",
+    "brandName": "思瑞康",
+    "manufacturer": "绿叶制药集团 Luye Pharma (曾由阿斯利康 AstraZeneca 生产)",
+    "tags": [
+      "精神科用药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "富马酸喹硫平缓释片",
+    "brandName": "思瑞康",
+    "manufacturer": "绿叶制药集团 Luye Pharma (曾由阿斯利康 AstraZeneca 生产)",
     "tags": [
       "精神科用药",
       "片剂"
@@ -931,7 +955,8 @@
   {
     "letter": "J",
     "name": "枸橼酸坦度螺酮片",
-    "manufacturer": "日本住友制药株式会社 (住友制药苏州分装)",
+    "brandName": "希德",
+    "manufacturer": "住友制药株式会社 Sumitomo Pharma Co., Ltd.",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1165,7 +1190,8 @@
   {
     "letter": "J",
     "name": "酒石酸伐尼克兰片",
-    "manufacturer": "德国 Heinrich Mack Nachf. GmbH & Co. KG",
+    "brandName": "畅沛",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1176,14 +1202,15 @@
     "name": "酒石酸溴莫尼定滴眼液",
     "manufacturer": "爱尔兰 Allergan Pharmaceuticals",
     "tags": [
-      "精神科用药",
+      "眼科用药",
       "滴眼液"
     ]
   },
   {
     "letter": "J",
     "name": "酒石酸唑吡坦片",
-    "manufacturer": "法国赛诺菲 Sanofi Winthrop",
+    "brandName": "思诺思",
+    "manufacturer": "赛诺菲 Sanofi Winthrop Industrie",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1340,8 +1367,10 @@
   {
     "letter": "L",
     "name": "拉莫三嗪片",
-    "manufacturer": "英国葛兰素史克有限公司",
+    "brandName": "利必通",
+    "manufacturer": "葛兰素史克 GlaxoSmithKline",
     "tags": [
+      "精神科用药",
       "抗癫痫药",
       "片剂"
     ]
@@ -1457,7 +1486,8 @@
   {
     "letter": "L",
     "name": "利培酮口服液",
-    "manufacturer": "比利时杨森制药公司 Janssen",
+    "brandName": "维思通",
+    "manufacturer": "杨森制药有限公司 Janssen",
     "tags": [
       "精神科用药",
       "口服液"
@@ -1466,7 +1496,8 @@
   {
     "letter": "L",
     "name": "利培酮片",
-    "manufacturer": "西安杨森制药有限公司",
+    "brandName": "维思通",
+    "manufacturer": "杨森制药有限公司 Janssen",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1729,7 +1760,8 @@
   {
     "letter": "M",
     "name": "马来酸氟伏沙明片",
-    "manufacturer": "荷兰苏威制药公司",
+    "brandName": "兰释",
+    "manufacturer": "雅培制药 Abbott Laboratories Corporation",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1855,7 +1887,8 @@
   {
     "letter": "M",
     "name": "米氮平片",
-    "manufacturer": "荷兰欧加农公司 N. V. Organon",
+    "brandName": "瑞美隆",
+    "manufacturer": "欧加隆 Organon",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1936,7 +1969,8 @@
   {
     "letter": "P",
     "name": "帕利哌酮缓释片",
-    "manufacturer": "美国 ALZA Corporation",
+    "brandName": "芮达",
+    "manufacturer": "杨森制药有限公司 Janssen",
     "tags": [
       "精神科用药",
       "缓释片"
@@ -2063,7 +2097,8 @@
   {
     "letter": "Q",
     "name": "氢溴酸西酞普兰片",
-    "manufacturer": "丹麦灵北药厂 H. Lundbeck A/S(西安分装）",
+    "brandName": "喜普妙",
+    "manufacturer": "灵北药厂 H. Lundbeck A/S (西安杨森制药分装)",
     "tags": [
       "精神科用药",
       "片剂"
@@ -2153,7 +2188,8 @@
   {
     "letter": "S",
     "name": "噻奈普汀钠片",
-    "manufacturer": "施维雅 (天津) 制药有限公司",
+    "brandName": "达体朗",
+    "manufacturer": "天津施维雅制药有限公司 Servier",
     "tags": [
       "精神科用药",
       "片剂"
@@ -2903,7 +2939,8 @@
   {
     "letter": "Y",
     "name": "盐酸度洛西汀肠溶胶囊",
-    "manufacturer": "美国礼来公司",
+    "brandName": "欣百达",
+    "manufacturer": "礼来公司 Lilly",
     "tags": [
       "精神科用药",
       "肠溶胶囊"
@@ -2984,7 +3021,8 @@
   {
     "letter": "Y",
     "name": "盐酸氟西汀分散片",
-    "manufacturer": "法国 Patheon France(苏州礼来分装)",
+    "brandName": "百优解",
+    "manufacturer": "法国 Patheon France (礼来苏州制药有限公司分装)",
     "tags": [
       "精神科用药",
       "分散片"
@@ -2993,7 +3031,8 @@
   {
     "letter": "Y",
     "name": "盐酸氟西汀胶囊",
-    "manufacturer": "法国 Patheon France(苏州礼来分装)",
+    "brandName": "百优解",
+    "manufacturer": "法国 Patheon France (礼来苏州制药有限公司分装)",
     "tags": [
       "精神科用药",
       "胶囊"
@@ -3047,7 +3086,8 @@
   {
     "letter": "Y",
     "name": "盐酸氯米帕明片",
-    "manufacturer": "北京诺华制药有限公司",
+    "brandName": "Anafranil (未进入中国市场)",
+    "manufacturer": "诺华制药 Novartis",
     "tags": [
       "精神科用药",
       "片剂"
@@ -3111,6 +3151,7 @@
   {
     "letter": "Y",
     "name": "盐酸帕罗西汀片",
+    "brandName": "赛乐特",
     "manufacturer": "中美天津史克制药有限公司",
     "tags": [
       "精神科用药",
@@ -3138,7 +3179,8 @@
   {
     "letter": "Y",
     "name": "盐酸齐拉西酮胶囊",
-    "manufacturer": "澳大利亚 Pfizer Australia Pty",
+    "brandName": "卓乐定",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "精神科用药",
       "胶囊"
@@ -3192,7 +3234,8 @@
   {
     "letter": "Y",
     "name": "盐酸舍曲林片",
-    "manufacturer": "辉瑞制药有限公司",
+    "brandName": "左洛复",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "精神科用药",
       "片剂"
@@ -3237,7 +3280,8 @@
   {
     "letter": "Y",
     "name": "盐酸托莫西汀胶囊",
-    "manufacturer": "波多黎各 Lilly del Caribe Inc",
+    "brandName": "择思达",
+    "manufacturer": "礼来公司 Lilly",
     "tags": [
       "精神科用药",
       "胶囊"
@@ -3255,7 +3299,8 @@
   {
     "letter": "Y",
     "name": "盐酸文拉法辛缓释胶囊",
-    "manufacturer": "爱尔兰惠氏制药有限公司 Wyeth Medica",
+    "brandName": "怡诺思",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "精神科用药",
       "缓释胶囊"
@@ -3501,6 +3546,16 @@
     "manufacturer": "法国礼来 (礼来苏州制药分装)",
     "tags": [
       "降血糖药",
+      "注射液"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "棕榈酸帕利哌酮注射液",
+    "brandName": "善思达",
+    "manufacturer": "杨森制药有限公司 Janssen",
+    "tags": [
+      "精神科用药",
       "注射液"
     ]
   },
