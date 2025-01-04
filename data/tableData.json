@@ -946,7 +946,8 @@
   {
     "letter": "J",
     "name": "枸橼酸莫沙必利片",
-    "manufacturer": "大日本制药株式会社 (Dainippon Sumitomo Pharma Co.)",
+    "brandName": "加斯清",
+    "manufacturer": "住友制药株式会社 (Sumitomo Pharma Co., Ltd)",
     "tags": [
       "消化系统用药",
       "片剂"
@@ -2179,7 +2180,7 @@
   {
     "letter": "S",
     "name": "塞来昔布胶囊",
-    "manufacturer": "美国 Pfizer Pharmaceuticals Llu",
+    "manufacturer": "美国辉瑞公司 Pfizer Pharmaceuticals LLC",
     "tags": [
       "解热镇痛药",
       "胶囊"
