@@ -1521,6 +1521,7 @@
   {
     "letter": "L",
     "name": "磷霉素氨丁三醇颗粒",
+    "brandName": "美乐力",
     "manufacturer": "瑞士 Zambon Switzerland Ltd",
     "tags": [
       "抗生素",
@@ -1638,6 +1639,7 @@
   {
     "letter": "L",
     "name": "罗红霉素片",
+    "brandName": "罗力得",
     "manufacturer": "法国 Aventis Intercontinental(赛诺菲安万特)",
     "tags": [
       "抗生素",
@@ -2450,6 +2452,7 @@
   {
     "letter": "T",
     "name": "头孢呋辛酯片",
+    "brandName": "西力欣",
     "manufacturer": "英国 Glaxo Operations UK Limitea",
     "tags": [
       "抗生素",
