@@ -152,7 +152,7 @@
   {
     "letter": "A",
     "name": "阿莫西林舒巴坦片",
-    "brandName": "干彼美",
+    "brandName": "特福猛",
     "manufacturer": "阿根廷 Laboratorios Bago S.A.",
     "tags": [
       "抗生素",
@@ -1092,6 +1092,7 @@
   {
     "letter": "J",
     "name": "甲磺酸吉米沙星片",
+    "brandName": "吉速星",    
     "manufacturer": "韩国 LG Life Sciences, Ltd.",
     "tags": [
       "抗生素",
@@ -1323,6 +1324,7 @@
   {
     "letter": "K",
     "name": "克拉霉素干混悬剂",
+    "brandName": "克拉仙",
     "manufacturer": "意大利 Abbott SpA",
     "tags": [
       "抗生素",
@@ -1332,6 +1334,7 @@
   {
     "letter": "K",
     "name": "克拉霉素片",
+    "brandName": "克拉仙",
     "manufacturer": "上海雅培制药有限公司",
     "tags": [
       "抗生素",
@@ -1469,6 +1472,7 @@
   {
     "letter": "L",
     "name": "利福昔明片",
+    "brandName": "昔服申",
     "manufacturer": "意大利阿尔法韦士曼制药公司 Alfa",
     "tags": [
       "抗生素",
@@ -1478,6 +1482,7 @@
   {
     "letter": "L",
     "name": "利奈唑胺片",
+    "brandName": "斯沃",
     "manufacturer": "美国 Pfizer Pharmaceuticals LLC(PPLLC)",
     "tags": [
       "抗生素",
@@ -1516,6 +1521,7 @@
   {
     "letter": "L",
     "name": "磷霉素氨丁三醇颗粒",
+    "brandName": "美乐力",
     "manufacturer": "瑞士 Zambon Switzerland Ltd",
     "tags": [
       "抗生素",
@@ -1633,6 +1639,7 @@
   {
     "letter": "L",
     "name": "罗红霉素片",
+    "brandName": "罗力得",
     "manufacturer": "法国 Aventis Intercontinental(赛诺菲安万特)",
     "tags": [
       "抗生素",
@@ -2180,6 +2187,7 @@
   {
     "letter": "S",
     "name": "塞来昔布胶囊",
+    "brandName": "西乐葆",
     "manufacturer": "美国辉瑞公司 Pfizer Pharmaceuticals LLC",
     "tags": [
       "解热镇痛药",
@@ -2444,6 +2452,7 @@
   {
     "letter": "T",
     "name": "头孢呋辛酯片",
+    "brandName": "西力欣",
     "manufacturer": "英国 Glaxo Operations UK Limitea",
     "tags": [
       "抗生素",
