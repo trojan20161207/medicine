@@ -347,6 +347,7 @@
   {
     "letter": "B",
     "name": "苯磺酸氨氯地平片",
+    "brandName": "络活喜",
     "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "降血压药",
@@ -845,6 +846,7 @@
   {
     "letter": "F",
     "name": "富马酸比索洛尔片",
+    "brandName": "康析",
     "manufacturer": "德国默克 (Merck KGaA)",
     "tags": [
       "降血压药",
@@ -1296,6 +1298,7 @@
   {
     "letter": "K",
     "name": "坎地沙坦酯片",
+    "brandName": "必洛斯",
     "manufacturer": "日本武田药品工业株式会社大阪工厂",
     "tags": [
       "降血压药",
@@ -1400,6 +1403,7 @@
   {
     "letter": "L",
     "name": "拉西地平片",
+    "brandName": "乐息平",
     "manufacturer": "西班牙葛兰素",
     "tags": [
       "降血压药",
@@ -1418,6 +1422,7 @@
   {
     "letter": "L",
     "name": "赖诺普利片",
+    "brandName": "捷赐瑞",
     "manufacturer": "英国阿斯利康 AstraZeneca UK Limited",
     "tags": [
       "降血压药",
@@ -1454,6 +1459,7 @@
   {
     "letter": "L",
     "name": "雷米普利片",
+    "brandName": "瑞泰",
     "manufacturer": "赛诺菲安万特 (北京) 制药有限公司",
     "tags": [
       "降血压药",
@@ -1746,6 +1752,7 @@
   {
     "letter": "L",
     "name": "氯沙坦钾片",
+    "brandName": "科素亚",
     "manufacturer": "杭州默沙东制药有限公司",
     "tags": [
       "降血压药",
@@ -1755,6 +1762,7 @@
   {
     "letter": "L",
     "name": "氯沙坦钾氢氯噻嗪片",
+    "brandName": "海亚",
     "manufacturer": "英国 Merck Sharp & Dohme(杭州分装）",
     "tags": [
       "降血压药",
@@ -1764,6 +1772,7 @@
   {
     "letter": "L",
     "name": "氯氧喹胶囊",
+    "brandName": "安体舒",
     "manufacturer": "通化茂祥制药有限公司",
     "tags": [
       "抗疟药",
@@ -1783,6 +1792,7 @@
   {
     "letter": "M",
     "name": "马来酸依那普利片",
+    "brandName": "悦宁定",
     "manufacturer": "澳大利亚 Merck Sharp & Dohme",
     "tags": [
       "降血压药",
@@ -1792,6 +1802,7 @@
   {
     "letter": "M",
     "name": "马来酸左旋氨氯地平片",
+    "brandName": "玄宁",
     "manufacturer": "石药集团欧意药业有限公司",
     "tags": [
       "降血压药",
@@ -2375,6 +2386,7 @@
   {
     "letter": "T",
     "name": "替米沙坦片",
+    "brandName": "美卡素",
     "manufacturer": "德国勃林格殷格翰公司 (上海勃林格殷格翰药",
     "tags": [
       "降血压药",
@@ -2673,6 +2685,7 @@
   {
     "letter": "X",
     "name": "硝苯地平控释片",
+    "brandName": "拜新同",
     "manufacturer": "德国拜耳 (拜耳医药保健分装)",
     "tags": [
       "降血压药",
@@ -2822,6 +2835,7 @@
   {
     "letter": "Y",
     "name": "盐酸阿罗洛尔片",
+    "brandName": "阿尔马尔",
     "manufacturer": "日本住友制药株式会社 (住友制药苏州分装)",
     "tags": [
       "降血压药",
@@ -2894,6 +2908,7 @@
   {
     "letter": "Y",
     "name": "盐酸贝那普利片",
+    "brandName": "洛汀新",
     "manufacturer": "北京诺华制药有限公司",
     "tags": [
       "降血压药",
@@ -2903,6 +2918,7 @@
   {
     "letter": "Y",
     "name": "盐酸贝尼地平片",
+    "brandName": "可力洛",
     "manufacturer": "日本协和发酵工业株式会社富士工厂",
     "tags": [
       "降血压药",
@@ -3068,6 +3084,7 @@
   {
     "letter": "Y",
     "name": "盐酸乐卡地平片",
+    "brandName": "再宁平",
     "manufacturer": "意大利 Recordati S. P. A.",
     "tags": [
       "降血压药",
@@ -3160,6 +3177,7 @@
   {
     "letter": "Y",
     "name": "盐酸尼卡地平缓释胶囊",
+    "brandName": "佩尔",
     "manufacturer": "安斯泰来制药 (中国) 有限公司",
     "tags": [
       "降血压药",
@@ -3603,6 +3621,186 @@
     "tags": [
       "抗癫痫药",
       "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿利沙坦酪氨氯地平片",
+    "brandName": "复立坦",
+    "manufacturer": "信立泰",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿利沙坦酯片",
+    "brandName": "信立坦",
+    "manufacturer": "信立泰",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥美沙坦酯片",
+    "brandName": "傲坦",
+    "manufacturer": "第一三共制药",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥美沙坦酪氨氯噻嗪片",
+    "brandName": "复傲坦",
+    "manufacturer": "第一三共制药",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "苯磺酸氨氯地平片",
+    "brandName": "络活喜",
+    "manufacturer": "辉瑞",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "苯磺酸左旋氨氯地平片",
+    "brandName": "施慧达",
+    "manufacturer": "施慧达",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "比索洛尔氨氯地平片",
+    "brandName": "康忻安",
+    "manufacturer": "默克",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "富马酸比索洛尔片",
+    "brandName": "康析",
+    "manufacturer": "默克",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "坦啉普利氨氯地平片（III）",
+    "brandName": "开莱达",
+    "manufacturer": "施维雅",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "坦啉普利叔丁胺片",
+    "brandName": "雅施达",
+    "manufacturer": "施维雅",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "坦啉普利吲达帕胺片",
+    "brandName": "百普乐",
+    "manufacturer": "施维雅",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "沙库巴曲德沙坦钠片",
+    "brandName": "诺欣妥",
+    "manufacturer": "诺华",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝苯地平控释片",
+    "brandName": "拜斯同",
+    "manufacturer": "拜耳",
+    "tags": [
+      "降血压药",
+      "控释片"
+    ]
+  },
+  {
+    "letter": "C",
+    "name": "超沙坦氨氯地平片（I）",
+    "brandName": "倍博特",
+    "manufacturer": "诺华",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "C",
+    "name": "超沙坦胶囊",
+    "brandName": "代文",
+    "manufacturer": "诺华",
+    "tags": [
+      "降血压药",
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "C",
+    "name": "超沙坦氢氯噻嗪片",
+    "brandName": "星代文",
+    "manufacturer": "诺华",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸贝凡洛尔片",
+    "brandName": "卡理稳",
+    "manufacturer": "日本化学药品",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "吲达帕胺缓释片",
+    "brandName": "纳催离",
+    "manufacturer": "施维雅",
+    "tags": [
+      "降血压药",
+      "缓释片"
     ]
   }
 ]

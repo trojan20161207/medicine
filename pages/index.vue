@@ -28,6 +28,10 @@
               ref="vgtRef"
               :columns="columns"
               :rows="rows"
+              :sort-options="{
+                enabled: true,
+                initialSortBy: { field: 'letter', type: 'asc' }
+              }"
               :search-options="{
                 enabled: true,
                 placeholder: '搜索药品名称或厂家'
