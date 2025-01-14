@@ -1531,6 +1531,7 @@
   {
     "letter": "L",
     "name": "磷酸奥司他韦胶囊",
+    "brandName": "达菲",
     "manufacturer": "瑞士巴塞尔豪夫迈。罗氏有限公司 F.",
     "tags": [
       "抗病毒药",
@@ -1540,6 +1541,7 @@
   {
     "letter": "L",
     "name": "磷酸雌莫司汀胶囊",
+    "brandName": "艾去适",
     "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗肿瘤药",
@@ -1549,6 +1551,7 @@
   {
     "letter": "L",
     "name": "磷酸西格列汀片",
+    "brandName": "捷诺维",
     "manufacturer": "澳大利亚默沙东 Merck Sharp & Dohme",
     "tags": [
       "降血糖药",
@@ -1558,6 +1561,7 @@
   {
     "letter": "L",
     "name": "硫酸氨基葡萄糖胶囊",
+    "brandName": "维固力",
     "manufacturer": "爱尔兰罗达药厂 (Rottapharm Ltd)",
     "tags": [
       "骨骼疾病用药",
@@ -1576,6 +1580,7 @@
   {
     "letter": "L",
     "name": "硫酸羟氯喹片",
+    "brandName": "纷乐",
     "manufacturer": "英国 Sanofi-Synthelabo Ltd.",
     "tags": [
       "免疫抑制剂",
