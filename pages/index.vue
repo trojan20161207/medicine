@@ -34,7 +34,8 @@
               }"
               :search-options="{
                 enabled: true,
-                placeholder: '搜索药品名称或厂家'
+                placeholder: '搜索药品名称、商品名、厂家或标签',
+                customFilter: customFilter
               }">
               <template slot="table-row" slot-scope="props">
                 <span v-if="props.column.field == 'letter'">
@@ -207,6 +208,20 @@ export default {
     };
   },
   methods: {
+    customFilter(rows, term) {
+      return rows.filter(row => {
+        const searchTerm = term.toLowerCase();
+        // 搜索药品名称
+        if (row.name && row.name.toLowerCase().includes(searchTerm)) return true;
+        // 搜索商品名
+        if (row.brandName && row.brandName.toLowerCase().includes(searchTerm)) return true;
+        // 搜索厂家
+        if (row.manufacturer && row.manufacturer.toLowerCase().includes(searchTerm)) return true;
+        // 搜索标签
+        if (row.tags && row.tags.some(tag => tag.toLowerCase().includes(searchTerm))) return true;
+        return false;
+      });
+    },
     getImagePath(name, brandName) {
       if (!brandName) return null
       return `/img/${encodeURIComponent(name)}-${encodeURIComponent(brandName)}.jpg`
