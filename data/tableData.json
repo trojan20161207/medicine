@@ -3,7 +3,7 @@
     "letter": "A",
     "name": "阿奇霉素干混悬剂",
     "brandName": "希舒美",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗生素",
       "干混悬剂"
@@ -13,7 +13,7 @@
     "letter": "A",
     "name": "阿奇霉素片",
     "brandName": "希舒美",
-    "manufacturer": "晖致制药（原辉瑞）",
+    "manufacturer": "晖致制药",
     "tags": [
       "抗生素",
       "片剂"
@@ -62,6 +62,7 @@
   {
     "letter": "A",
     "name": "阿德福韦酯片",
+    "brandName": "优贺丁",
     "manufacturer": "上海益生源药业有限公司",
     "tags": [
       "抗病毒药",
@@ -71,6 +72,7 @@
   {
     "letter": "A",
     "name": "阿德福韦酯片",
+    "brandName": "代丁",
     "manufacturer": "天津药物研究院药业有限责任公司",
     "tags": [
       "抗病毒药",
@@ -80,6 +82,7 @@
   {
     "letter": "A",
     "name": "阿法骨化醇片",
+    "brandName": "萌格旺",
     "manufacturer": "日本帝人株式会社医药岩国制造所",
     "tags": [
       "维生素",
@@ -89,6 +92,7 @@
   {
     "letter": "A",
     "name": "阿法骨化醇软胶囊",
+    "brandName": "阿法迪三",
     "manufacturer": "以色列梯瓦制药工业有限公司",
     "tags": [
       "维生素",
@@ -108,7 +112,8 @@
   {
     "letter": "A",
     "name": "阿立哌唑片",
-    "manufacturer": "浙江大家制药有限公司",
+    "brandName": "安律凡",
+    "manufacturer": "浙江大冢制药有限公司 Otsuka",
     "tags": [
       "精神科用药",
       "片剂"
@@ -117,6 +122,7 @@
   {
     "letter": "A",
     "name": "阿仑麟酸钠片",
+    "brandName": "福善美",
     "manufacturer": "意大利默沙东 (Merck Sharp & Dohme)（杭州分装）",
     "tags": [
       "骨骼疾病用药",
@@ -146,6 +152,7 @@
   {
     "letter": "A",
     "name": "阿莫西林舒巴坦片",
+    "brandName": "特福猛",
     "manufacturer": "阿根廷 Laboratorios Bago S.A.",
     "tags": [
       "抗生素",
@@ -155,6 +162,7 @@
   {
     "letter": "A",
     "name": "阿那曲唑片",
+    "brandName": "瑞宁得",
     "manufacturer": "美国阿斯利康有限公司 AstraZeneca",
     "tags": [
       "抗肿瘤药",
@@ -174,6 +182,7 @@
   {
     "letter": "A",
     "name": "阿维 A 胶囊",
+    "brandName": "新体卡松",
     "manufacturer": "加拿大 PATHEONINC.",
     "tags": [
       "皮肤科用药",
@@ -183,7 +192,8 @@
   {
     "letter": "A",
     "name": "阿昔莫司胶囊",
-    "manufacturer": "意大利辉瑞制药厂 (Pfizer Italia SRL)",
+    "brandName": "乐知苹",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "降血脂药",
       "胶囊"
@@ -191,7 +201,7 @@
   },
   {
     "letter": "A",
-    "name": "埃索美拉唑镁肠溶片",
+    "name": "艾司奥美拉唑镁肠溶片",
     "brandName": "耐信",
     "manufacturer": "阿斯利康制药有限公司",
     "tags": [
@@ -202,6 +212,7 @@
   {
     "letter": "A",
     "name": "氨甲环酸片",
+    "brandName": "妥塞敏",
     "manufacturer": "日本第一三共普乐发株式会社静冈工厂",
     "tags": [
       "止血药",
@@ -211,7 +222,18 @@
   {
     "letter": "A",
     "name": "奥氮平片",
-    "manufacturer": "波多黎各 LillydelCaribeInc.",
+    "brandName": "再普乐",
+    "manufacturer": "礼来公司 Lilly",
+    "tags": [
+      "精神科用药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥氮平口崩片",
+    "brandName": "再普乐",
+    "manufacturer": "礼来公司 Lilly",
     "tags": [
       "精神科用药",
       "片剂"
@@ -220,6 +242,7 @@
   {
     "letter": "A",
     "name": "奥卡西平口服混悬液",
+    "brandName": "曲莱",
     "manufacturer": "法国诺华 NovartisPharmaS. A",
     "tags": [
       "抗癫痫药",
@@ -229,6 +252,7 @@
   {
     "letter": "A",
     "name": "奥卡西平片",
+    "brandName": "曲莱",
     "manufacturer": "意大利诺华 NovartisPharmaS.p. A",
     "tags": [
       "抗癫痫药",
@@ -237,7 +261,8 @@
   },
   {
     "letter": "A",
-    "name": "奥洛他定滴眼液",
+    "name": "盐酸奥洛他定滴眼液",
+    "brandName": "帕坦洛",
     "manufacturer": "美国爱尔康眼药厂比利时分厂",
     "tags": [
       "眼科用药",
@@ -257,6 +282,7 @@
   {
     "letter": "A",
     "name": "奥美沙坦酯片",
+    "brandName": "傲坦",
     "manufacturer": "第一三共制药 (上海) 有限公司",
     "tags": [
       "降血压药",
@@ -266,6 +292,7 @@
   {
     "letter": "A",
     "name": "奥替溴铵片",
+    "brandName": "斯巴敏",
     "manufacturer": "德国柏林化学股份有限公司 Berlin-Chemie",
     "tags": [
       "消化系统用药",
@@ -320,7 +347,8 @@
   {
     "letter": "B",
     "name": "苯磺酸氨氯地平片",
-    "manufacturer": "辉瑞制药有限公司",
+    "brandName": "络活喜",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "降血压药",
       "片剂"
@@ -400,9 +428,11 @@
   },
   {
     "letter": "B",
-    "name": "丙戊酸钠缓释片",
-    "manufacturer": "杭州赛诺菲安万特民生制药有限公司",
+    "name": "丙戊酸钠缓释片 (I)",
+    "brandName": "德巴金",
+    "manufacturer": "赛诺菲 Sanofi Winthrop Industrie",
     "tags": [
+      "精神科用药",
       "抗癫痫药",
       "缓释片"
     ]
@@ -455,6 +485,7 @@
   {
     "letter": "B",
     "name": "布洛芬缓释胶囊",
+    "brandName": "芬必得",
     "manufacturer": "中美天津史克制药有限公司",
     "tags": [
       "解热镇痛药",
@@ -464,7 +495,8 @@
   {
     "letter": "C",
     "name": "草酸艾司西酞普兰片",
-    "manufacturer": "丹麦灵北药厂 H. Lundbeck A/S(西安杨森制药",
+    "brandName": "来士普",
+    "manufacturer": "灵北药厂 H. Lundbeck A/S (西安杨森制药分装)",
     "tags": [
       "精神科用药",
       "片剂"
@@ -491,7 +523,7 @@
   {
     "letter": "C",
     "name": "醋酸甲羟孕酮片",
-    "manufacturer": "意大利辉瑞制药厂",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "激素类药",
       "片剂"
@@ -545,6 +577,7 @@
   {
     "letter": "D",
     "name": "多潘立酮混悬液",
+    "brandName": "吗丁啉",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "消化系统用药",
@@ -554,6 +587,7 @@
   {
     "letter": "D",
     "name": "多潘立酮片",
+    "brandName": "吗丁啉",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "消化系统用药",
@@ -599,6 +633,7 @@
   {
     "letter": "E",
     "name": "恩替卡韦片",
+    "brandName": "博路定",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "抗病毒药",
@@ -620,6 +655,16 @@
     "manufacturer": "安斯泰来制药 (中国) 有限公司",
     "tags": [
       "消化系统用药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "非布司他片",
+    "brandName": "菲布力",
+    "manufacturer": "日本 TEIJIN PHARMA LIMITED IWAKUNI PHARMACEUTICAL FACTORY",
+    "tags": [
+      "降尿酸药",
       "片剂"
     ]
   },
@@ -671,6 +716,7 @@
   {
     "letter": "F",
     "name": "夫西地酸乳膏",
+    "brandName": "立思丁",
     "manufacturer": "爱尔兰 Leo Laboratories Ltd",
     "tags": [
       "皮肤科用药",
@@ -716,7 +762,7 @@
   {
     "letter": "F",
     "name": "氟康唑胶囊",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗真菌药",
       "胶囊"
@@ -733,8 +779,9 @@
   },
   {
     "letter": "F",
-    "name": "氟哌噻吨/美利曲辛片",
-    "manufacturer": "丹麦灵北制药公司 H. Lundbeck A/S",
+    "name": "氟哌噻吨美利曲辛片",
+    "brandName": "黛力新",
+    "manufacturer": "灵北药厂 H. Lundbeck A/S",
     "tags": [
       "精神科用药",
       "片剂"
@@ -743,7 +790,7 @@
   {
     "letter": "F",
     "name": "氟他胺片",
-    "manufacturer": "加拿大先灵葆雅公司 (Schering-Plough",
+    "manufacturer": "加拿大先灵葆雅公司 (Schering-Plough)",
     "tags": [
       "抗肿瘤药",
       "片剂"
@@ -752,6 +799,7 @@
   {
     "letter": "F",
     "name": "福辛普利钠片",
+    "brandName": "蒙诺",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "降血压药",
@@ -779,6 +827,7 @@
   {
     "letter": "F",
     "name": "复方曲安奈德乳膏",
+    "brandName": "康纳乐",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "皮肤科用药",
@@ -797,6 +846,7 @@
   {
     "letter": "F",
     "name": "富马酸比索洛尔片",
+    "brandName": "康析",
     "manufacturer": "德国默克 (Merck KGaA)",
     "tags": [
       "降血压药",
@@ -806,7 +856,18 @@
   {
     "letter": "F",
     "name": "富马酸喹硫平片",
-    "manufacturer": "英国阿斯利康 AstraZeneca UK Limited",
+    "brandName": "思瑞康",
+    "manufacturer": "绿叶制药集团 Luye Pharma (曾由阿斯利康 AstraZeneca 生产)",
+    "tags": [
+      "精神科用药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "富马酸喹硫平缓释片",
+    "brandName": "思瑞康",
+    "manufacturer": "绿叶制药集团 Luye Pharma (曾由阿斯利康 AstraZeneca 生产)",
     "tags": [
       "精神科用药",
       "片剂"
@@ -842,7 +903,7 @@
   {
     "letter": "G",
     "name": "格列吡嗪控释片",
-    "manufacturer": "美国辉瑞 Pfizer Pharmaceuticals LLC",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "降血糖药",
       "控释片"
@@ -851,7 +912,7 @@
   {
     "letter": "G",
     "name": "格列吡嗪片",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "降血糖药",
       "片剂"
@@ -887,7 +948,8 @@
   {
     "letter": "J",
     "name": "枸橼酸莫沙必利片",
-    "manufacturer": "大日本制药株式会社 (Dainippon Sumitomo Pharma Co.)",
+    "brandName": "加斯清",
+    "manufacturer": "住友制药株式会社 (Sumitomo Pharma Co., Ltd)",
     "tags": [
       "消化系统用药",
       "片剂"
@@ -896,7 +958,8 @@
   {
     "letter": "J",
     "name": "枸橼酸坦度螺酮片",
-    "manufacturer": "日本住友制药株式会社 (住友制药苏州分装)",
+    "brandName": "希德",
+    "manufacturer": "住友制药株式会社 Sumitomo Pharma Co., Ltd.",
     "tags": [
       "精神科用药",
       "片剂"
@@ -914,7 +977,7 @@
   {
     "letter": "J",
     "name": "枸橼酸西地那非片",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "泌尿系统用药",
       "片剂"
@@ -1031,6 +1094,7 @@
   {
     "letter": "J",
     "name": "甲磺酸吉米沙星片",
+    "brandName": "吉速星",    
     "manufacturer": "韩国 LG Life Sciences, Ltd.",
     "tags": [
       "抗生素",
@@ -1130,7 +1194,8 @@
   {
     "letter": "J",
     "name": "酒石酸伐尼克兰片",
-    "manufacturer": "德国 Heinrich Mack Nachf. GmbH & Co. KG",
+    "brandName": "畅沛",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1141,14 +1206,15 @@
     "name": "酒石酸溴莫尼定滴眼液",
     "manufacturer": "爱尔兰 Allergan Pharmaceuticals",
     "tags": [
-      "精神科用药",
+      "眼科用药",
       "滴眼液"
     ]
   },
   {
     "letter": "J",
     "name": "酒石酸唑吡坦片",
-    "manufacturer": "法国赛诺菲 Sanofi Winthrop",
+    "brandName": "思诺思",
+    "manufacturer": "赛诺菲 Sanofi Winthrop Industrie",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1175,6 +1241,7 @@
   {
     "letter": "K",
     "name": "卡泊三醇搽剂",
+    "brandName": "达力士",
     "manufacturer": "丹麦利奥制药有限公司 (Leo Pharmaceutical Products)",
     "tags": [
       "皮肤科用药",
@@ -1184,6 +1251,7 @@
   {
     "letter": "K",
     "name": "卡泊三醇软膏",
+    "brandName": "达力士",
     "manufacturer": "爱尔兰 Leo Laboratories Ltd",
     "tags": [
       "皮肤科用药",
@@ -1211,6 +1279,7 @@
   {
     "letter": "K",
     "name": "卡托普利片",
+    "brandName": "开博通",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "降血压药",
@@ -1229,6 +1298,7 @@
   {
     "letter": "K",
     "name": "坎地沙坦酯片",
+    "brandName": "必洛斯",
     "manufacturer": "日本武田药品工业株式会社大阪工厂",
     "tags": [
       "降血压药",
@@ -1257,6 +1327,7 @@
   {
     "letter": "K",
     "name": "克拉霉素干混悬剂",
+    "brandName": "克拉仙",
     "manufacturer": "意大利 Abbott SpA",
     "tags": [
       "抗生素",
@@ -1266,6 +1337,7 @@
   {
     "letter": "K",
     "name": "克拉霉素片",
+    "brandName": "克拉仙",
     "manufacturer": "上海雅培制药有限公司",
     "tags": [
       "抗生素",
@@ -1302,8 +1374,10 @@
   {
     "letter": "L",
     "name": "拉莫三嗪片",
-    "manufacturer": "英国葛兰素史克有限公司",
+    "brandName": "利必通",
+    "manufacturer": "葛兰素史克 GlaxoSmithKline",
     "tags": [
+      "精神科用药",
       "抗癫痫药",
       "片剂"
     ]
@@ -1311,7 +1385,7 @@
   {
     "letter": "L",
     "name": "拉坦前列素滴眼液",
-    "manufacturer": "比利时辉瑞 PfizerManufacturing",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "眼科用药",
       "滴眼液"
@@ -1329,6 +1403,7 @@
   {
     "letter": "L",
     "name": "拉西地平片",
+    "brandName": "乐息平",
     "manufacturer": "西班牙葛兰素",
     "tags": [
       "降血压药",
@@ -1347,6 +1422,7 @@
   {
     "letter": "L",
     "name": "赖诺普利片",
+    "brandName": "捷赐瑞",
     "manufacturer": "英国阿斯利康 AstraZeneca UK Limited",
     "tags": [
       "降血压药",
@@ -1383,6 +1459,7 @@
   {
     "letter": "L",
     "name": "雷米普利片",
+    "brandName": "瑞泰",
     "manufacturer": "赛诺菲安万特 (北京) 制药有限公司",
     "tags": [
       "降血压药",
@@ -1401,6 +1478,7 @@
   {
     "letter": "L",
     "name": "利福昔明片",
+    "brandName": "昔服申",
     "manufacturer": "意大利阿尔法韦士曼制药公司 Alfa",
     "tags": [
       "抗生素",
@@ -1410,6 +1488,7 @@
   {
     "letter": "L",
     "name": "利奈唑胺片",
+    "brandName": "斯沃",
     "manufacturer": "美国 Pfizer Pharmaceuticals LLC(PPLLC)",
     "tags": [
       "抗生素",
@@ -1419,7 +1498,8 @@
   {
     "letter": "L",
     "name": "利培酮口服液",
-    "manufacturer": "比利时杨森制药公司 Janssen",
+    "brandName": "维思通",
+    "manufacturer": "杨森制药有限公司 Janssen",
     "tags": [
       "精神科用药",
       "口服液"
@@ -1428,7 +1508,8 @@
   {
     "letter": "L",
     "name": "利培酮片",
-    "manufacturer": "西安杨森制药有限公司",
+    "brandName": "维思通",
+    "manufacturer": "杨森制药有限公司 Janssen",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1446,6 +1527,7 @@
   {
     "letter": "L",
     "name": "磷霉素氨丁三醇颗粒",
+    "brandName": "美乐力",
     "manufacturer": "瑞士 Zambon Switzerland Ltd",
     "tags": [
       "抗生素",
@@ -1455,6 +1537,7 @@
   {
     "letter": "L",
     "name": "磷酸奥司他韦胶囊",
+    "brandName": "达菲",
     "manufacturer": "瑞士巴塞尔豪夫迈。罗氏有限公司 F.",
     "tags": [
       "抗病毒药",
@@ -1464,7 +1547,8 @@
   {
     "letter": "L",
     "name": "磷酸雌莫司汀胶囊",
-    "manufacturer": "意大利辉瑞制药厂 Pfizer Italia SRL",
+    "brandName": "艾去适",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗肿瘤药",
       "胶囊"
@@ -1473,6 +1557,7 @@
   {
     "letter": "L",
     "name": "磷酸西格列汀片",
+    "brandName": "捷诺维",
     "manufacturer": "澳大利亚默沙东 Merck Sharp & Dohme",
     "tags": [
       "降血糖药",
@@ -1482,6 +1567,7 @@
   {
     "letter": "L",
     "name": "硫酸氨基葡萄糖胶囊",
+    "brandName": "维固力",
     "manufacturer": "爱尔兰罗达药厂 (Rottapharm Ltd)",
     "tags": [
       "骨骼疾病用药",
@@ -1500,6 +1586,7 @@
   {
     "letter": "L",
     "name": "硫酸羟氯喹片",
+    "brandName": "纷乐",
     "manufacturer": "英国 Sanofi-Synthelabo Ltd.",
     "tags": [
       "免疫抑制剂",
@@ -1563,6 +1650,7 @@
   {
     "letter": "L",
     "name": "罗红霉素片",
+    "brandName": "罗力得",
     "manufacturer": "法国 Aventis Intercontinental(赛诺菲安万特)",
     "tags": [
       "抗生素",
@@ -1590,6 +1678,7 @@
   {
     "letter": "L",
     "name": "洛索洛芬钠片",
+    "brandName": "乐松",
     "manufacturer": "第一三共制药 (上海) 有限公司",
     "tags": [
       "解热镇痛药",
@@ -1598,7 +1687,8 @@
   },
   {
     "letter": "L",
-    "name": "铝碳酸镁片",
+    "name": "铝碳酸镁咀嚼片",
+    "brandName": "达喜",
     "manufacturer": "拜耳医药保健有限公司",
     "tags": [
       "消化系统用药",
@@ -1662,6 +1752,7 @@
   {
     "letter": "L",
     "name": "氯沙坦钾片",
+    "brandName": "科素亚",
     "manufacturer": "杭州默沙东制药有限公司",
     "tags": [
       "降血压药",
@@ -1671,6 +1762,7 @@
   {
     "letter": "L",
     "name": "氯沙坦钾氢氯噻嗪片",
+    "brandName": "海亚",
     "manufacturer": "英国 Merck Sharp & Dohme(杭州分装）",
     "tags": [
       "降血压药",
@@ -1680,6 +1772,7 @@
   {
     "letter": "L",
     "name": "氯氧喹胶囊",
+    "brandName": "安体舒",
     "manufacturer": "通化茂祥制药有限公司",
     "tags": [
       "抗疟药",
@@ -1689,7 +1782,8 @@
   {
     "letter": "M",
     "name": "马来酸氟伏沙明片",
-    "manufacturer": "荷兰苏威制药公司",
+    "brandName": "兰释",
+    "manufacturer": "雅培制药 Abbott Laboratories Corporation",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1698,6 +1792,7 @@
   {
     "letter": "M",
     "name": "马来酸依那普利片",
+    "brandName": "悦宁定",
     "manufacturer": "澳大利亚 Merck Sharp & Dohme",
     "tags": [
       "降血压药",
@@ -1707,6 +1802,7 @@
   {
     "letter": "M",
     "name": "马来酸左旋氨氯地平片",
+    "brandName": "玄宁",
     "manufacturer": "石药集团欧意药业有限公司",
     "tags": [
       "降血压药",
@@ -1815,7 +1911,8 @@
   {
     "letter": "M",
     "name": "米氮平片",
-    "manufacturer": "荷兰欧加农公司 N. V. Organon",
+    "brandName": "瑞美隆",
+    "manufacturer": "欧加隆 Organon",
     "tags": [
       "精神科用药",
       "片剂"
@@ -1878,7 +1975,7 @@
   {
     "letter": "N",
     "name": "尼麦角林片",
-    "manufacturer": "辉瑞制药有限公司",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "神经科用药",
       "片剂"
@@ -1896,7 +1993,8 @@
   {
     "letter": "P",
     "name": "帕利哌酮缓释片",
-    "manufacturer": "美国 ALZA Corporation",
+    "brandName": "芮达",
+    "manufacturer": "杨森制药有限公司 Janssen",
     "tags": [
       "精神科用药",
       "缓释片"
@@ -1950,7 +2048,7 @@
   {
     "letter": "P",
     "name": "苹果酸舒尼替尼胶囊",
-    "manufacturer": "意大利辉瑞制药厂 Pfizer Italia SRL",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗肿瘤药",
       "胶囊"
@@ -1959,6 +2057,7 @@
   {
     "letter": "P",
     "name": "普伐他汀钠片",
+    "brandName": "普拉固",
     "manufacturer": "第一三共制药 (上海) 有限公司",
     "tags": [
       "降血脂药",
@@ -2022,7 +2121,8 @@
   {
     "letter": "Q",
     "name": "氢溴酸西酞普兰片",
-    "manufacturer": "丹麦灵北药厂 H. Lundbeck A/S(西安分装）",
+    "brandName": "喜普妙",
+    "manufacturer": "灵北药厂 H. Lundbeck A/S (西安杨森制药分装)",
     "tags": [
       "精神科用药",
       "片剂"
@@ -2103,7 +2203,8 @@
   {
     "letter": "S",
     "name": "塞来昔布胶囊",
-    "manufacturer": "美国 Pfizer Pharmaceuticals Llu",
+    "brandName": "西乐葆",
+    "manufacturer": "美国辉瑞公司 Pfizer Pharmaceuticals LLC",
     "tags": [
       "解热镇痛药",
       "胶囊"
@@ -2112,7 +2213,8 @@
   {
     "letter": "S",
     "name": "噻奈普汀钠片",
-    "manufacturer": "施维雅 (天津) 制药有限公司",
+    "brandName": "达体朗",
+    "manufacturer": "天津施维雅制药有限公司 Servier",
     "tags": [
       "精神科用药",
       "片剂"
@@ -2247,6 +2349,7 @@
   {
     "letter": "T",
     "name": "他克莫司软膏",
+    "brandName": "普特彼",
     "manufacturer": "日本 Astellas Toyama Co., Ltd. Toyama",
     "tags": [
       "皮肤科用药",
@@ -2283,6 +2386,7 @@
   {
     "letter": "T",
     "name": "替米沙坦片",
+    "brandName": "美卡素",
     "manufacturer": "德国勃林格殷格翰公司 (上海勃林格殷格翰药",
     "tags": [
       "降血压药",
@@ -2337,6 +2441,7 @@
   {
     "letter": "T",
     "name": "头孢丙烯片",
+    "brandName": "施复捷",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "抗生素",
@@ -2364,6 +2469,7 @@
   {
     "letter": "T",
     "name": "头孢呋辛酯片",
+    "brandName": "西力欣",
     "manufacturer": "英国 Glaxo Operations UK Limitea",
     "tags": [
       "抗生素",
@@ -2373,7 +2479,8 @@
   {
     "letter": "T",
     "name": "头孢克洛干混悬剂",
-    "manufacturer": "礼来苏州制药有限公司",
+    "brandName": "希刻劳",
+    "manufacturer": "苏州西克罗制药有限公司",
     "tags": [
       "抗生素",
       "干混悬剂"
@@ -2382,7 +2489,8 @@
   {
     "letter": "T",
     "name": "头孢克洛缓释片 (II)",
-    "manufacturer": "礼来苏州制药有限公司",
+    "brandName": "希刻劳",
+    "manufacturer": "苏州西克罗制药有限公司",
     "tags": [
       "抗生素",
       "缓释片"
@@ -2391,7 +2499,8 @@
   {
     "letter": "T",
     "name": "头孢克洛胶囊",
-    "manufacturer": "礼来苏州制药有限公司",
+    "brandName": "希刻劳",
+    "manufacturer": "亿腾医药（苏州）有限公司",
     "tags": [
       "抗生素",
       "胶囊"
@@ -2436,6 +2545,7 @@
   {
     "letter": "T",
     "name": "头孢拉定胶囊",
+    "brandName": "泛捷复",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "抗生素",
@@ -2481,6 +2591,7 @@
   {
     "letter": "T",
     "name": "妥布霉素滴眼液",
+    "brandName": "托百士",
     "manufacturer": "美国爱尔康眼药厂比利时分厂 s.a. ALCON",
     "tags": [
       "眼科用药",
@@ -2490,6 +2601,7 @@
   {
     "letter": "T",
     "name": "妥布霉素地塞米松滴眼液",
+    "brandName": "典必殊",
     "manufacturer": "美国爱尔康眼药厂比利时分厂 s.a. ALCON",
     "tags": [
       "眼科用药",
@@ -2499,6 +2611,7 @@
   {
     "letter": "T",
     "name": "妥布霉素地塞米松眼膏",
+    "brandName": "典必殊",
     "manufacturer": "美国爱尔康眼药厂比利时分厂 s.a. ALCON",
     "tags": [
       "眼科用药",
@@ -2508,6 +2621,7 @@
   {
     "letter": "T",
     "name": "妥布霉素眼膏",
+    "brandName": "托百士",
     "manufacturer": "美国爱尔康眼药厂比利时分厂 s.a. ALCON",
     "tags": [
       "眼科用药",
@@ -2571,6 +2685,7 @@
   {
     "letter": "X",
     "name": "硝苯地平控释片",
+    "brandName": "拜新同",
     "manufacturer": "德国拜耳 (拜耳医药保健分装)",
     "tags": [
       "降血压药",
@@ -2607,6 +2722,7 @@
   {
     "letter": "X",
     "name": "硝酸咪康唑乳膏",
+    "brandName": "达克宁",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "皮肤科用药",
@@ -2616,6 +2732,7 @@
   {
     "letter": "X",
     "name": "硝酸咪康唑散",
+    "brandName": "达克宁",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "皮肤科用药",
@@ -2625,6 +2742,7 @@
   {
     "letter": "X",
     "name": "硝酸咪康唑栓",
+    "brandName": "达克宁",
     "manufacturer": "西安杨森制药有限公司",
     "tags": [
       "妇科用药",
@@ -2634,6 +2752,7 @@
   {
     "letter": "X",
     "name": "硝酸咪康唑阴道软胶囊",
+    "brandName": "达克宁",
     "manufacturer": "法国 Cardinal Health France",
     "tags": [
       "妇科用药",
@@ -2643,6 +2762,7 @@
   {
     "letter": "X",
     "name": "硝酸舍他康唑乳膏",
+    "brandName": "卓兰",
     "manufacturer": "西班牙 FERRERINTERNACIONAL, S. A.",
     "tags": [
       "皮肤科用药",
@@ -2715,6 +2835,7 @@
   {
     "letter": "Y",
     "name": "盐酸阿罗洛尔片",
+    "brandName": "阿尔马尔",
     "manufacturer": "日本住友制药株式会社 (住友制药苏州分装)",
     "tags": [
       "降血压药",
@@ -2787,6 +2908,7 @@
   {
     "letter": "Y",
     "name": "盐酸贝那普利片",
+    "brandName": "洛汀新",
     "manufacturer": "北京诺华制药有限公司",
     "tags": [
       "降血压药",
@@ -2796,6 +2918,7 @@
   {
     "letter": "Y",
     "name": "盐酸贝尼地平片",
+    "brandName": "可力洛",
     "manufacturer": "日本协和发酵工业株式会社富士工厂",
     "tags": [
       "降血压药",
@@ -2850,7 +2973,8 @@
   {
     "letter": "Y",
     "name": "盐酸度洛西汀肠溶胶囊",
-    "manufacturer": "美国礼来公司",
+    "brandName": "欣百达",
+    "manufacturer": "礼来公司 Lilly",
     "tags": [
       "精神科用药",
       "肠溶胶囊"
@@ -2931,7 +3055,8 @@
   {
     "letter": "Y",
     "name": "盐酸氟西汀分散片",
-    "manufacturer": "法国 Patheon France(苏州礼来分装)",
+    "brandName": "百优解",
+    "manufacturer": "法国 Patheon France (礼来苏州制药有限公司分装)",
     "tags": [
       "精神科用药",
       "分散片"
@@ -2940,7 +3065,8 @@
   {
     "letter": "Y",
     "name": "盐酸氟西汀胶囊",
-    "manufacturer": "法国 Patheon France(苏州礼来分装)",
+    "brandName": "百优解",
+    "manufacturer": "法国 Patheon France (礼来苏州制药有限公司分装)",
     "tags": [
       "精神科用药",
       "胶囊"
@@ -2949,7 +3075,7 @@
   {
     "letter": "Y",
     "name": "盐酸卡替洛尔滴眼液",
-    "manufacturer": "中国大家制药有限公司",
+    "manufacturer": "中国大冢制药有限公司",
     "tags": [
       "眼科用药",
       "滴眼液"
@@ -2958,6 +3084,7 @@
   {
     "letter": "Y",
     "name": "盐酸乐卡地平片",
+    "brandName": "再宁平",
     "manufacturer": "意大利 Recordati S. P. A.",
     "tags": [
       "降血压药",
@@ -2994,7 +3121,8 @@
   {
     "letter": "Y",
     "name": "盐酸氯米帕明片",
-    "manufacturer": "北京诺华制药有限公司",
+    "brandName": "Anafranil (未进入中国市场)",
+    "manufacturer": "诺华制药 Novartis",
     "tags": [
       "精神科用药",
       "片剂"
@@ -3039,6 +3167,7 @@
   {
     "letter": "Y",
     "name": "盐酸莫西沙星片",
+    "brandName": "拜复乐",
     "manufacturer": "德国拜耳 (拜耳医药保健分装)",
     "tags": [
       "抗生素",
@@ -3048,6 +3177,7 @@
   {
     "letter": "Y",
     "name": "盐酸尼卡地平缓释胶囊",
+    "brandName": "佩尔",
     "manufacturer": "安斯泰来制药 (中国) 有限公司",
     "tags": [
       "降血压药",
@@ -3057,6 +3187,7 @@
   {
     "letter": "Y",
     "name": "盐酸帕罗西汀片",
+    "brandName": "赛乐特",
     "manufacturer": "中美天津史克制药有限公司",
     "tags": [
       "精神科用药",
@@ -3084,7 +3215,8 @@
   {
     "letter": "Y",
     "name": "盐酸齐拉西酮胶囊",
-    "manufacturer": "澳大利亚 Pfizer Australia Pty",
+    "brandName": "卓乐定",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "精神科用药",
       "胶囊"
@@ -3138,7 +3270,8 @@
   {
     "letter": "Y",
     "name": "盐酸舍曲林片",
-    "manufacturer": "辉瑞制药有限公司",
+    "brandName": "左洛复",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "精神科用药",
       "片剂"
@@ -3183,7 +3316,8 @@
   {
     "letter": "Y",
     "name": "盐酸托莫西汀胶囊",
-    "manufacturer": "波多黎各 Lilly del Caribe Inc",
+    "brandName": "择思达",
+    "manufacturer": "礼来公司 Lilly",
     "tags": [
       "精神科用药",
       "胶囊"
@@ -3201,7 +3335,8 @@
   {
     "letter": "Y",
     "name": "盐酸文拉法辛缓释胶囊",
-    "manufacturer": "爱尔兰惠氏制药有限公司 Wyeth Medica",
+    "brandName": "怡诺思",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "精神科用药",
       "缓释胶囊"
@@ -3354,7 +3489,7 @@
   {
     "letter": "Y",
     "name": "依西美坦片",
-    "manufacturer": "意大利辉瑞制药厂 Pfizer Italia SRL",
+    "manufacturer": "辉瑞公司 Pfizer",
     "tags": [
       "抗肿瘤药",
       "片剂"
@@ -3452,6 +3587,16 @@
   },
   {
     "letter": "Z",
+    "name": "棕榈酸帕利哌酮注射液",
+    "brandName": "善思达",
+    "manufacturer": "杨森制药有限公司 Janssen",
+    "tags": [
+      "精神科用药",
+      "注射液"
+    ]
+  },
+  {
+    "letter": "Z",
     "name": "左氧氟沙星滴眼液",
     "manufacturer": "日本参天制药株式会社能登工厂 Santen",
     "tags": [
@@ -3462,7 +3607,8 @@
   {
     "letter": "Z",
     "name": "左氧氟沙星片",
-    "manufacturer": "第一三共制药 (北京) 有限公司",
+    "brandName": "可乐必妥",
+    "manufacturer": "北京吉洛华制药有限公司",
     "tags": [
       "抗生素",
       "片剂"
@@ -3475,6 +3621,196 @@
     "tags": [
       "抗癫痫药",
       "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿利沙坦酪氨氯地平片",
+    "brandName": "复立坦",
+    "manufacturer": "信立泰",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿利沙坦酯片",
+    "brandName": "信立坦",
+    "manufacturer": "信立泰",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥美沙坦酯片",
+    "brandName": "傲坦",
+    "manufacturer": "第一三共制药",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥美沙坦酪氨氯噻嗪片",
+    "brandName": "复傲坦",
+    "manufacturer": "第一三共制药",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "苯磺酸氨氯地平片",
+    "brandName": "络活喜",
+    "manufacturer": "辉瑞",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "苯磺酸左旋氨氯地平片",
+    "brandName": "施慧达",
+    "manufacturer": "施慧达",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "比索洛尔氨氯地平片",
+    "brandName": "康忻安",
+    "manufacturer": "默克",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "富马酸比索洛尔片",
+    "brandName": "康析",
+    "manufacturer": "默克",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "坦啉普利氨氯地平片（III）",
+    "brandName": "开莱达",
+    "manufacturer": "施维雅",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "坦啉普利叔丁胺片",
+    "brandName": "雅施达",
+    "manufacturer": "施维雅",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "坦啉普利吲达帕胺片",
+    "brandName": "百普乐",
+    "manufacturer": "施维雅",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "沙库巴曲德沙坦钠片",
+    "brandName": "诺欣妥",
+    "manufacturer": "诺华",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝苯地平控释片",
+    "brandName": "拜斯同",
+    "manufacturer": "拜耳",
+    "tags": [
+      "降血压药",
+      "控释片"
+    ]
+  },
+  {
+    "letter": "C",
+    "name": "超沙坦氨氯地平片（I）",
+    "brandName": "倍博特",
+    "manufacturer": "诺华",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "C",
+    "name": "超沙坦胶囊",
+    "brandName": "代文",
+    "manufacturer": "诺华",
+    "tags": [
+      "降血压药",
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "C",
+    "name": "超沙坦氢氯噻嗪片",
+    "brandName": "星代文",
+    "manufacturer": "诺华",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸贝凡洛尔片",
+    "brandName": "卡理稳",
+    "manufacturer": "日本化学药品",
+    "tags": [
+      "降血压药",
+      "片剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "吲达帕胺缓释片",
+    "brandName": "纳催离",
+    "manufacturer": "施维雅",
+    "tags": [
+      "降血压药",
+      "缓释片"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸坦索罗辛缓释胶囊",
+    "brandName": "哈乐",
+    "manufacturer": "安斯泰来制药（中国）有限公司",
+    "tags": [
+      "泌尿系统用药",
+      "缓释胶囊"
     ]
   }
 ]

@@ -3,7 +3,7 @@
     <div class="container mx-auto flex items-center justify-between py-3">
       <div class="flex items-center justify-between gap-12">
         <NuxtLink
-          :to="localePath('/')"
+          :to="'/'"
           class="font-display group inline-flex items-center gap-2 text-xl font-semibold tracking-tight text-secondary-700 transition-transform hover:text-blue-500 active:scale-95 md:text-2xl">
           💊
           <div class="flex items-center gap-0.5">进口原研药目录</div>

@@ -12,7 +12,7 @@
                 约 400 种药品，实时更新的进口原研药数据库
               </p>
               <p class="mx-auto mt-2 text-sm text-secondary-500">
-                数据来源于网络，仅供参考。用药请遵医嘱，按说明书使用。
+                数据来源于网络，仅供参考。请遵医嘱用药，并在医师指导下使用药物。
               </p>
               <div class="mt-6 flex justify-center">
                 <a href="https://github.com/lvwzhen/medicine" class="flex items-center gap-1  bg-secondary-700 px-4 py-2 text-sm font-normal text-white shadow-sm transition-all hover:bg-secondary-800 rounded-full">
@@ -28,9 +28,14 @@
               ref="vgtRef"
               :columns="columns"
               :rows="rows"
+              :sort-options="{
+                enabled: true,
+                initialSortBy: { field: 'letter', type: 'asc' }
+              }"
               :search-options="{
                 enabled: true,
-                placeholder: '搜索药品名称或厂家'
+                placeholder: '搜索药品名称、商品名、厂家或标签',
+                customFilter: customFilter
               }">
               <template slot="table-row" slot-scope="props">
                 <span v-if="props.column.field == 'letter'">
@@ -38,13 +43,21 @@
                 </span>
                 <span v-else-if="props.column.field == 'image'" class="flex justify-center relative">
                   <img 
-                    v-if="props.formattedRow.brandName"
+                    v-if="props.formattedRow.brandName && getImagePath(props.formattedRow.name, props.formattedRow.brandName)"
                     :src="getImagePath(props.formattedRow.name, props.formattedRow.brandName)" 
                     :alt="`${props.formattedRow.name} - ${props.formattedRow.brandName}`"
                     class="h-20 w-20 object-contain rounded-lg border p-1 cursor-pointer"
                     @mouseenter="handleMouseEnter(getImagePath(props.formattedRow.name, props.formattedRow.brandName), $event)"
                     @mouseleave="handleMouseLeave"
+                    @error="handleImageError"
+                    loading="lazy"
                   />
+                </span>
+                <span v-else-if="props.column.field == 'brandName'" 
+                  class="cursor-pointer hover:text-blue-500"
+                  @click="handleSearch(props.formattedRow[props.column.field])"
+                >
+                  {{ props.formattedRow[props.column.field] }}<span v-if="props.formattedRow[props.column.field]">®</span>
                 </span>
                 <span v-else-if="props.column.field == 'manufacturer'" 
                   class="cursor-pointer hover:text-blue-500"
@@ -73,6 +86,11 @@
           <div class="mx-auto my-20 max-w-2xl">
             <h2 class="border-b pb-2 text-2xl font-semibold">Source</h2>
             <ul class="mt-3 list-disc pl-4 leading-relaxed">
+              <li>
+                <a class="text-blue-500 underline hover:text-purple-700" href="https://www.nmpa.gov.cn/datasearch/home-index.html">
+                  https://www.nmpa.gov.cn/datasearch/home-index.html
+                </a>
+              </li>
               <li>
                 <a class="text-blue-500 underline hover:text-purple-700" href="https://mp.weixin.qq.com/s/EBu_ZTy5uovPa_8kCs_TBQ">
                   https://mp.weixin.qq.com/s/EBu_ZTy5uovPa_8kCs_TBQ
@@ -142,7 +160,7 @@ const handleMouseMove = (event) => {
 }
 
 const handleImageError = (e) => {
-  e.target.src = '/images/placeholder.jpg';
+  e.target.src = 'https://dummyimage.com/80x80/fff/aaa';
 }
 </script>
 
@@ -157,11 +175,14 @@ export default {
           field: 'letter',
           width: '80px',
           sortable: true,
+          tdClass: 'hidden md:table-cell',
+          thClass: 'hidden md:table-cell',
         },
         {
           label: '药品图片',
           field: 'image',
           width: '120px',
+          sortable: false,
         },
         {
           label: '药品名称',
@@ -187,6 +208,20 @@ export default {
     };
   },
   methods: {
+    customFilter(rows, term) {
+      return rows.filter(row => {
+        const searchTerm = term.toLowerCase();
+        // 搜索药品名称
+        if (row.name && row.name.toLowerCase().includes(searchTerm)) return true;
+        // 搜索商品名
+        if (row.brandName && row.brandName.toLowerCase().includes(searchTerm)) return true;
+        // 搜索厂家
+        if (row.manufacturer && row.manufacturer.toLowerCase().includes(searchTerm)) return true;
+        // 搜索标签
+        if (row.tags && row.tags.some(tag => tag.toLowerCase().includes(searchTerm))) return true;
+        return false;
+      });
+    },
     getImagePath(name, brandName) {
       if (!brandName) return null
       return `/img/${encodeURIComponent(name)}-${encodeURIComponent(brandName)}.jpg`
